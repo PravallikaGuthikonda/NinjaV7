@@ -1,0 +1,1978 @@
+2025-02-15 20:23:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Workspaces\Jan2025Batch\NinjaV5\testng.xml"
+2025-02-15 20:23:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspaces\Jan2025Batch\NinjaV5\testng.xml
+
+2025-02-15 20:23:54 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-15 20:23:54 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-15 20:23:54 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-15 20:23:54 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:23:54 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:23:54 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:23:56 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:23:57 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:23:58 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:23:58 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-15 20:23:58 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-15 20:23:58 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-15 20:23:58 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-15 20:23:58 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-15 20:23:58 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-15 20:23:58 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:23:59 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:23:59 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:23:59 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-15 20:23:59 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-15 20:23:59 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-15 20:24:00 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-15 20:24:00 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-15 20:24:00 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-15 20:24:00 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:01 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:01 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-15 20:24:01 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-15 20:24:01 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-15 20:24:01 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:01 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-15 20:24:01 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:01 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-15 20:24:01 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-15 20:24:01 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-15 20:24:01 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:02 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:02 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-15 20:24:02 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:02 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:02 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-15 20:24:02 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:02 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:03 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:04 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:04 INFO  TC06_PurchaseAGiftCertificate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-15 20:24:04 DEBUG TC06_PurchaseAGiftCertificate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-15 20:24:05 DEBUG TC06_PurchaseAGiftCertificate:30 - Filling out gift certificate details.
+2025-02-15 20:24:05 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:05 INFO  TC06_PurchaseAGiftCertificate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-15 20:24:05 DEBUG TC06_PurchaseAGiftCertificate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-15 20:24:06 DEBUG TC06_PurchaseAGiftCertificate:30 - Filling out gift certificate details.
+2025-02-15 20:24:06 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:07 DEBUG TC06_PurchaseAGiftCertificate:38 - Verifying purchase confirmation message.
+2025-02-15 20:24:07 INFO  TC06_PurchaseAGiftCertificate:40 - Purchase success message status: true
+2025-02-15 20:24:07 INFO  TC06_PurchaseAGiftCertificate:44 - Gift certificate successfully purchased.
+2025-02-15 20:24:07 INFO  TC06_PurchaseAGiftCertificate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-15 20:24:07 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:08 DEBUG TC06_PurchaseAGiftCertificate:38 - Verifying purchase confirmation message.
+2025-02-15 20:24:08 INFO  TC06_PurchaseAGiftCertificate:40 - Purchase success message status: true
+2025-02-15 20:24:08 INFO  TC06_PurchaseAGiftCertificate:44 - Gift certificate successfully purchased.
+2025-02-15 20:24:08 INFO  TC06_PurchaseAGiftCertificate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-15 20:24:08 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:08 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:08 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-15 20:24:08 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:08 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:08 INFO  TC06_PurchaseAGiftCertificate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-15 20:24:08 DEBUG TC06_PurchaseAGiftCertificate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-15 20:24:09 DEBUG TC06_PurchaseAGiftCertificate:30 - Filling out gift certificate details.
+2025-02-15 20:24:09 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:09 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:09 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-15 20:24:09 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:11 DEBUG TC06_PurchaseAGiftCertificate:38 - Verifying purchase confirmation message.
+2025-02-15 20:24:11 INFO  TC06_PurchaseAGiftCertificate:40 - Purchase success message status: true
+2025-02-15 20:24:11 INFO  TC06_PurchaseAGiftCertificate:44 - Gift certificate successfully purchased.
+2025-02-15 20:24:11 INFO  TC06_PurchaseAGiftCertificate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-15 20:24:11 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:11 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:11 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:11 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-15 20:24:11 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:12 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-15 20:24:12 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:12 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-15 20:24:12 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:12 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:12 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-15 20:24:12 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:13 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-15 20:24:13 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-15 20:24:14 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-15 20:24:14 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-15 20:24:14 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-15 20:24:14 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-15 20:24:14 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:14 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-15 20:24:14 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-15 20:24:14 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:14 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-15 20:24:14 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:15 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-15 20:24:15 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-15 20:24:15 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-15 20:24:15 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:16 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:16 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:16 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-15 20:24:16 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:16 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:18 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:18 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:19 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-15 20:24:19 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:19 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:19 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-15 20:24:19 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-15 20:24:19 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:19 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:20 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-15 20:24:20 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:20 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-15 20:24:21 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:21 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-15 20:24:21 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-15 20:24:21 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-15 20:24:21 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-15 20:24:21 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:21 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:21 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:21 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:22 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:22 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:22 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:22 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:22 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:22 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-15 20:24:22 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:23 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:23 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-15 20:24:23 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:23 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:23 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:23 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-15 20:24:23 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:23 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:23 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:25 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:25 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:25 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:25 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:25 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:25 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-15 20:24:25 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:25 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:25 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:25 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-15 20:24:25 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:26 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:26 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:26 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:27 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:27 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:27 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:28 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:28 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:28 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:28 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:28 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:28 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-15 20:24:28 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:28 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:29 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-15 20:24:29 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-15 20:24:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-15 20:24:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-15 20:24:29 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-15 20:24:29 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:29 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:29 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:30 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:30 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:30 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:31 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:31 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:31 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:31 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:31 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:31 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:31 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:31 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:31 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-15 20:24:31 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:31 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:31 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:31 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:31 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-15 20:24:31 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:32 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:32 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:32 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-15 20:24:32 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:32 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:32 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:33 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:33 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:33 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:33 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:33 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:33 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:34 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:34 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:34 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:34 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:34 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:34 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:34 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:34 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-15 20:24:34 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:34 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:34 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:34 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:34 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:34 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:34 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-15 20:24:34 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:35 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:35 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:35 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:35 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-15 20:24:35 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:36 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:36 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:36 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:37 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:37 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:37 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:37 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-15 20:24:37 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:37 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:37 INFO  TC05_AddAnItemToWishList:19 - Starting test: testAddToWishList
+2025-02-15 20:24:37 DEBUG TC05_AddAnItemToWishList:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:38 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:38 DEBUG TC05_AddAnItemToWishList:31 - Selecting a product from the category.
+2025-02-15 20:24:39 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:39 INFO  TC05_AddAnItemToWishList:19 - Starting test: testAddToWishList
+2025-02-15 20:24:39 DEBUG TC05_AddAnItemToWishList:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:39 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:39 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:39 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:39 DEBUG TC05_AddAnItemToWishList:35 - Adding product to the wishlist.
+2025-02-15 20:24:39 DEBUG TC05_AddAnItemToWishList:39 - Verifying success message for adding to wishlist.
+2025-02-15 20:24:39 DEBUG TC05_AddAnItemToWishList:31 - Selecting a product from the category.
+2025-02-15 20:24:40 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:40 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:40 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-15 20:24:40 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-15 20:24:40 INFO  TC05_AddAnItemToWishList:41 - Wishlist success message status: true
+2025-02-15 20:24:40 INFO  TC05_AddAnItemToWishList:45 - Product successfully added to wishlist.
+2025-02-15 20:24:40 INFO  TC05_AddAnItemToWishList:56 - Test execution completed: testAddToWishList
+2025-02-15 20:24:40 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:40 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:40 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-15 20:24:40 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:40 DEBUG TC05_AddAnItemToWishList:35 - Adding product to the wishlist.
+2025-02-15 20:24:40 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-15 20:24:40 DEBUG TC05_AddAnItemToWishList:39 - Verifying success message for adding to wishlist.
+2025-02-15 20:24:41 INFO  TC05_AddAnItemToWishList:41 - Wishlist success message status: true
+2025-02-15 20:24:41 INFO  TC05_AddAnItemToWishList:45 - Product successfully added to wishlist.
+2025-02-15 20:24:41 INFO  TC05_AddAnItemToWishList:56 - Test execution completed: testAddToWishList
+2025-02-15 20:24:41 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:41 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-15 20:24:41 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:41 INFO  TC02_Login:46 - Login success status: true
+2025-02-15 20:24:41 INFO  TC02_Login:50 - Login verification passed.
+2025-02-15 20:24:42 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-15 20:24:42 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-15 20:24:42 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:43 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:43 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-15 20:24:43 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:43 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:43 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-15 20:24:43 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:44 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:44 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-15 20:24:44 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:44 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-15 20:24:44 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:45 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-15 20:24:45 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-15 20:24:46 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-15 20:24:46 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:46 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-15 20:24:46 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:47 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-15 20:24:47 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-15 20:24:48 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-15 20:24:48 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:49 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-15 20:24:50 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-15 20:24:50 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:50 INFO  TC05_AddAnItemToWishList:19 - Starting test: testAddToWishList
+2025-02-15 20:24:50 DEBUG TC05_AddAnItemToWishList:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:24:51 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-15 20:24:51 DEBUG TC05_AddAnItemToWishList:31 - Selecting a product from the category.
+2025-02-15 20:24:52 DEBUG TC05_AddAnItemToWishList:35 - Adding product to the wishlist.
+2025-02-15 20:24:52 DEBUG TC05_AddAnItemToWishList:39 - Verifying success message for adding to wishlist.
+2025-02-15 20:24:52 INFO  TC05_AddAnItemToWishList:41 - Wishlist success message status: true
+2025-02-15 20:24:52 INFO  TC05_AddAnItemToWishList:45 - Product successfully added to wishlist.
+2025-02-15 20:24:52 INFO  TC05_AddAnItemToWishList:56 - Test execution completed: testAddToWishList
+2025-02-15 20:24:52 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:24:53 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:24:53 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-15 20:24:53 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-15 20:24:57 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-15 20:24:59 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-15 20:24:59 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-15 20:24:59 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-15 20:25:00 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-15 20:25:01 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-15 20:25:01 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-15 20:25:03 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-15 20:25:03 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-15 20:25:53 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-15 20:25:54 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-15 20:25:54 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-15 20:25:54 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-15 20:25:54 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:25:54 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:25:58 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-15 20:26:00 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-15 20:26:00 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-15 20:26:00 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-15 20:26:00 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:26:01 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-15 20:26:09 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-15 20:26:10 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-15 20:26:10 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-15 20:26:10 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-15 20:26:10 INFO  BaseClass:136 - Closing browser...
+2025-02-15 20:26:11 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:50:37 DEBUG TestNG:82 - suiteXmlPath: "D:\advjavaSSS\NinjaV5\testng.xml"
+2025-02-17 22:50:38 INFO  Utils:112 - [TestNG] Running:
+  D:\advjavaSSS\NinjaV5\testng.xml
+
+2025-02-17 22:50:38 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-17 22:50:38 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-17 22:50:38 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-17 22:50:38 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:38 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:38 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:41 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:42 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:43 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:43 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-17 22:50:43 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-17 22:50:43 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-17 22:50:43 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:43 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-17 22:50:43 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-17 22:50:43 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-17 22:50:43 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-17 22:50:43 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-17 22:50:43 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-17 22:50:43 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:50:44 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-17 22:50:44 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-17 22:50:44 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-17 22:50:44 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:50:44 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:45 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:50:45 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:50:45 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-17 22:50:45 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-17 22:50:45 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:45 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:47 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:48 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:48 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:48 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-17 22:50:48 DEBUG TC01_LaunchApplication:26 - Navigating to HomePage
+2025-02-17 22:50:48 DEBUG TC01_LaunchApplication:29 - Verifying homepage confirmation message.
+2025-02-17 22:50:48 INFO  TC01_LaunchApplication:31 - Received homepage confirmation message: Qafox.com
+2025-02-17 22:50:48 INFO  TC01_LaunchApplication:35 - Homepage confirmation message matched expected value.
+2025-02-17 22:50:48 INFO  TC01_LaunchApplication:46 - Test execution completed: testLaunchApplication
+2025-02-17 22:50:48 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:50:49 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:50:49 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-17 22:50:49 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:50 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:50 INFO  TC06_PurchaseAGiftCertificate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-17 22:50:50 DEBUG TC06_PurchaseAGiftCertificate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-17 22:50:51 DEBUG TC06_PurchaseAGiftCertificate:30 - Filling out gift certificate details.
+2025-02-17 22:50:52 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:52 INFO  TC06_PurchaseAGiftCertificate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-17 22:50:52 DEBUG TC06_PurchaseAGiftCertificate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-17 22:50:52 DEBUG TC06_PurchaseAGiftCertificate:30 - Filling out gift certificate details.
+2025-02-17 22:50:53 DEBUG TC06_PurchaseAGiftCertificate:38 - Verifying purchase confirmation message.
+2025-02-17 22:50:53 INFO  TC06_PurchaseAGiftCertificate:40 - Purchase success message status: true
+2025-02-17 22:50:53 INFO  TC06_PurchaseAGiftCertificate:44 - Gift certificate successfully purchased.
+2025-02-17 22:50:53 INFO  TC06_PurchaseAGiftCertificate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-17 22:50:53 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:50:54 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:55 DEBUG TC06_PurchaseAGiftCertificate:38 - Verifying purchase confirmation message.
+2025-02-17 22:50:55 INFO  TC06_PurchaseAGiftCertificate:40 - Purchase success message status: true
+2025-02-17 22:50:55 INFO  TC06_PurchaseAGiftCertificate:44 - Gift certificate successfully purchased.
+2025-02-17 22:50:55 INFO  TC06_PurchaseAGiftCertificate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-17 22:50:55 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:50:55 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:50:55 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-17 22:50:55 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:55 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:50:55 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-17 22:50:55 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:50:57 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:57 INFO  TC06_PurchaseAGiftCertificate:18 - Starting test: testPurchaseAGiftCertificate
+2025-02-17 22:50:57 DEBUG TC06_PurchaseAGiftCertificate:26 - Navigating to HomePage and clicking Gift Certificate link.
+2025-02-17 22:50:57 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:57 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:50:58 DEBUG TC06_PurchaseAGiftCertificate:30 - Filling out gift certificate details.
+2025-02-17 22:50:58 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:58 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-17 22:50:58 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:50:59 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:50:59 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-17 22:50:59 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:50:59 DEBUG TC06_PurchaseAGiftCertificate:38 - Verifying purchase confirmation message.
+2025-02-17 22:51:00 INFO  TC06_PurchaseAGiftCertificate:40 - Purchase success message status: true
+2025-02-17 22:51:00 INFO  TC06_PurchaseAGiftCertificate:44 - Gift certificate successfully purchased.
+2025-02-17 22:51:00 INFO  TC06_PurchaseAGiftCertificate:55 - Test execution completed: testPurchaseAGiftCertificate
+2025-02-17 22:51:00 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:00 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-17 22:51:00 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-17 22:51:01 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:01 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-17 22:51:01 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:01 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-17 22:51:01 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-17 22:51:01 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-17 22:51:01 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-17 22:51:01 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-17 22:51:01 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:01 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-17 22:51:02 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-17 22:51:02 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-17 22:51:02 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-17 22:51:02 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-17 22:51:02 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:02 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:03 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-17 22:51:03 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:03 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:03 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-17 22:51:03 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:04 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:05 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:06 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:06 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:07 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-17 22:51:08 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:08 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:08 INFO  TC03_AddToCart:19 - Starting test: testAddToCart
+2025-02-17 22:51:08 DEBUG TC03_AddToCart:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:08 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:09 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:09 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-17 22:51:09 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:09 DEBUG TC03_AddToCart:31 - Selecting a product from the category.
+2025-02-17 22:51:09 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:09 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:10 DEBUG TC03_AddToCart:35 - Setting up delivery date and adding product to cart.
+2025-02-17 22:51:11 DEBUG TC03_AddToCart:40 - Validating success message.
+2025-02-17 22:51:11 INFO  TC03_AddToCart:42 - Success message status: true
+2025-02-17 22:51:11 INFO  TC03_AddToCart:46 - Product successfully added to cart.
+2025-02-17 22:51:11 INFO  TC03_AddToCart:57 - Test execution completed: testAddToCart
+2025-02-17 22:51:11 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:11 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:11 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:11 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:11 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:11 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:11 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:12 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:12 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:12 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-17 22:51:12 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:12 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:12 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:12 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-17 22:51:12 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:12 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:12 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:12 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-17 22:51:12 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:12 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:14 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:14 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:14 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:14 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:14 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:14 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:15 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:15 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:15 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-17 22:51:15 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:15 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:15 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:15 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-17 22:51:15 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:16 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:16 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:17 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:17 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:17 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:17 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:18 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:18 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:18 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:19 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:19 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:19 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-17 22:51:19 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:19 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:19 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:19 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-17 22:51:19 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:19 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:19 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-17 22:51:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-17 22:51:20 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-02-17 22:51:20 INFO  TC02_Login:24 - Starting test: testLogin with Email: goodmorning@gmail.com and Password: test@1234
+2025-02-17 22:51:20 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:21 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:21 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:21 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:21 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:21 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:21 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:21 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:22 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:22 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:22 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:22 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-17 22:51:22 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:22 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:22 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:22 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:22 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:22 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-17 22:51:22 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:23 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:23 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:23 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:23 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:23 INFO  TC02_Login:24 - Starting test: testLogin with Email: test121@test.com and Password: test123
+2025-02-17 22:51:23 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:24 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:24 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:24 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:24 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:25 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:25 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:25 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:25 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:25 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:25 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:25 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:25 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:25 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:26 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:26 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-17 22:51:26 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:26 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:26 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-17 22:51:26 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:26 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:26 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:26 INFO  TC02_Login:24 - Starting test: testLogin with Email: sid@cloudberry.services and Password: Test123
+2025-02-17 22:51:26 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:27 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:27 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:28 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:28 INFO  TC05_AddAnItemToWishList:19 - Starting test: testAddToWishList
+2025-02-17 22:51:28 DEBUG TC05_AddAnItemToWishList:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:28 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:28 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:28 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:28 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:29 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:29 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:29 INFO  TC02_Login:24 - Starting test: testLogin with Email: otisdog22@yahoo.com and Password: 1234QWERT
+2025-02-17 22:51:29 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:30 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:30 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:30 INFO  TC05_AddAnItemToWishList:19 - Starting test: testAddToWishList
+2025-02-17 22:51:30 DEBUG TC05_AddAnItemToWishList:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:30 DEBUG TC05_AddAnItemToWishList:31 - Selecting a product from the category.
+2025-02-17 22:51:31 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:31 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:31 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:31 DEBUG TC05_AddAnItemToWishList:31 - Selecting a product from the category.
+2025-02-17 22:51:31 DEBUG TC05_AddAnItemToWishList:35 - Adding product to the wishlist.
+2025-02-17 22:51:31 DEBUG TC05_AddAnItemToWishList:39 - Verifying success message for adding to wishlist.
+2025-02-17 22:51:31 INFO  TC05_AddAnItemToWishList:41 - Wishlist success message status: true
+2025-02-17 22:51:31 INFO  TC05_AddAnItemToWishList:45 - Product successfully added to wishlist.
+2025-02-17 22:51:31 INFO  TC05_AddAnItemToWishList:56 - Test execution completed: testAddToWishList
+2025-02-17 22:51:31 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:31 DEBUG TC05_AddAnItemToWishList:35 - Adding product to the wishlist.
+2025-02-17 22:51:31 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:31 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:31 INFO  TC02_Login:24 - Starting test: testLogin with Email: shalaka.dongre@gmail.com and Password: Test123!
+2025-02-17 22:51:31 DEBUG TC02_Login:32 - Navigating to HomePage
+2025-02-17 22:51:32 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:32 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-17 22:51:32 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:32 DEBUG TC05_AddAnItemToWishList:39 - Verifying success message for adding to wishlist.
+2025-02-17 22:51:32 INFO  TC05_AddAnItemToWishList:41 - Wishlist success message status: true
+2025-02-17 22:51:32 INFO  TC05_AddAnItemToWishList:45 - Product successfully added to wishlist.
+2025-02-17 22:51:32 INFO  TC05_AddAnItemToWishList:56 - Test execution completed: testAddToWishList
+2025-02-17 22:51:32 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:32 DEBUG TC02_Login:37 - Entering login credentials.
+2025-02-17 22:51:33 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:33 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-17 22:51:33 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:33 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:33 DEBUG TC02_Login:43 - Verifying login success.
+2025-02-17 22:51:33 INFO  TC02_Login:46 - Login success status: true
+2025-02-17 22:51:33 INFO  TC02_Login:50 - Login verification passed.
+2025-02-17 22:51:34 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:34 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-17 22:51:34 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:34 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:34 INFO  TC02_Login:55 - User logged out successfully.
+2025-02-17 22:51:34 INFO  TC02_Login:67 - Test execution completed: testLogin
+2025-02-17 22:51:34 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:36 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:36 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-17 22:51:36 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:37 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-17 22:51:37 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:37 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-17 22:51:37 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:38 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-17 22:51:38 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-17 22:51:38 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-17 22:51:39 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-17 22:51:39 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-17 22:51:39 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-17 22:51:40 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:40 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-17 22:51:42 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:42 INFO  TC05_AddAnItemToWishList:19 - Starting test: testAddToWishList
+2025-02-17 22:51:42 DEBUG TC05_AddAnItemToWishList:27 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:43 DEBUG TC05_AddAnItemToWishList:31 - Selecting a product from the category.
+2025-02-17 22:51:44 DEBUG TC05_AddAnItemToWishList:35 - Adding product to the wishlist.
+2025-02-17 22:51:44 DEBUG TC05_AddAnItemToWishList:39 - Verifying success message for adding to wishlist.
+2025-02-17 22:51:44 INFO  TC05_AddAnItemToWishList:41 - Wishlist success message status: true
+2025-02-17 22:51:44 INFO  TC05_AddAnItemToWishList:45 - Product successfully added to wishlist.
+2025-02-17 22:51:44 INFO  TC05_AddAnItemToWishList:56 - Test execution completed: testAddToWishList
+2025-02-17 22:51:44 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:51:45 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:51:45 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-17 22:51:45 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-17 22:51:48 DEBUG BaseClass:116 - WebDriver instance set successfully.
+2025-02-17 22:51:51 INFO  BaseClass:124 - Successfully launched application URL: https://tutorialsninja.com/demo/
+2025-02-17 22:51:51 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-17 22:51:51 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:51:52 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-17 22:51:53 DEBUG TC04_CompletePurchase:39 - Setting up delivery date and adding product to cart.
+2025-02-17 22:51:53 DEBUG TC04_CompletePurchase:44 - Proceeding to checkout.
+2025-02-17 22:51:55 DEBUG TC04_CompletePurchase:47 - Logging in to complete purchase.
+2025-02-17 22:51:55 DEBUG TC04_CompletePurchase:53 - Completing checkout process.
+2025-02-17 22:52:40 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [92921a2d2f6e11a9f761f74f0911c49c, clickElement {id=f.A2E4C447D22D656F58E667E195B69BB2.d.B619E96E20CFD31BBD3AB83BB040160D.e.117}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50891}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\prava\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.105:4444/ses..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (92921a2d2f6e11a9f761f74f0911c49c)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: 92921a2d2f6e11a9f761f74f0911c49c
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [92921a2d2f6e11a9f761f74f0911c49c, clickElement {id=f.A2E4C447D22D656F58E667E195B69BB2.d.B619E96E20CFD31BBD3AB83BB040160D.e.117}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50891}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\prava\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.105:4444/ses..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (92921a2d2f6e11a9f761f74f0911c49c)] -> xpath: //strong[normalize-space()='Checkout']]
+Session ID: 92921a2d2f6e11a9f761f74f0911c49c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.AddToCartPage.goToCheckout(AddToCartPage.java:59) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:45) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2025-02-17 22:52:40 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (1 of 2)
+2025-02-17 22:52:40 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-17 22:52:40 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:52:41 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-17 22:52:46 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-17 22:52:47 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-17 22:52:47 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-17 22:52:47 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-17 22:52:47 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:52:48 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:53:01 DEBUG TC04_CompletePurchase:57 - Verifying order confirmation.
+2025-02-17 22:53:02 INFO  TC04_CompletePurchase:60 - Order confirmation status: true
+2025-02-17 22:53:02 INFO  TC04_CompletePurchase:64 - Order successfully confirmed.
+2025-02-17 22:53:02 INFO  TC04_CompletePurchase:75 - Test execution completed: testCompletePurchase
+2025-02-17 22:53:02 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:53:04 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-17 22:53:41 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [92921a2d2f6e11a9f761f74f0911c49c, clickElement {id=f.A2E4C447D22D656F58E667E195B69BB2.d.19973441B9879611EDED9BC8D0B1FFC6.e.124}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50891}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\prava\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.105:4444/ses..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (92921a2d2f6e11a9f761f74f0911c49c)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 92921a2d2f6e11a9f761f74f0911c49c
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [92921a2d2f6e11a9f761f74f0911c49c, clickElement {id=f.A2E4C447D22D656F58E667E195B69BB2.d.19973441B9879611EDED9BC8D0B1FFC6.e.124}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50891}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\prava\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.105:4444/ses..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (92921a2d2f6e11a9f761f74f0911c49c)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 92921a2d2f6e11a9f761f74f0911c49c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.CategoryPage.selectProduct(CategoryPage.java:17) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:37) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2025-02-17 22:53:41 WARN  RetryAnalyzer:18 - Retrying test 'testCompletePurchase' (2 of 2)
+2025-02-17 22:53:41 INFO  TC04_CompletePurchase:23 - Starting test: testCompletePurchase
+2025-02-17 22:53:41 DEBUG TC04_CompletePurchase:31 - Navigating to HomePage and selecting Laptops & Notebooks category.
+2025-02-17 22:53:42 DEBUG TC04_CompletePurchase:35 - Selecting a product from the category.
+2025-02-17 22:54:42 ERROR TC04_CompletePurchase:71 - Unexpected error occurred during test execution: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [92921a2d2f6e11a9f761f74f0911c49c, clickElement {id=f.A2E4C447D22D656F58E667E195B69BB2.d.1C207392FEFDCD65199EF2243AE5968E.e.131}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50891}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\prava\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.105:4444/ses..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (92921a2d2f6e11a9f761f74f0911c49c)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 92921a2d2f6e11a9f761f74f0911c49c
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=133.0.3065.69)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [92921a2d2f6e11a9f761f74f0911c49c, clickElement {id=f.A2E4C447D22D656F58E667E195B69BB2.d.1C207392FEFDCD65199EF2243AE5968E.e.131}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 133.0.3065.69, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50891}, msedge: {msedgedriverVersion: 133.0.3065.69 (c3f010c11f3e..., userDataDir: C:\Users\prava\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.105:4444/ses..., se:cdpVersion: 133.0.3065.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (92921a2d2f6e11a9f761f74f0911c49c)] -> xpath: //a[normalize-space()='HP LP3065']]
+Session ID: 92921a2d2f6e11a9f761f74f0911c49c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.28.1.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.28.1.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.CategoryPage.selectProduct(CategoryPage.java:17) ~[test-classes/:?]
+	at testCases.TC04_CompletePurchase.testCompletePurchase(TC04_CompletePurchase.java:37) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+2025-02-17 22:54:43 INFO  BaseClass:136 - Closing browser...
+2025-02-17 22:54:44 INFO  BaseClass:139 - Browser closed and WebDriver instance removed.
+2025-02-18 20:03:35 DEBUG TestNG:82 - suiteXmlPath: "D:\advjavaSSS\NinjaV6\testng.xml"
+2025-02-18 20:03:36 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-18 20:03:36 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-18 20:03:36 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-18 20:03:36 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 20:03:36 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 20:03:36 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 20:03:36 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:80) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 20:03:36 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:85) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 20:03:36 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:75) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 20:03:36 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 20:03:36 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 20:03:36 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 20:03:36 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 20:03:36 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 20:03:36 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:27 DEBUG TestNG:82 - suiteXmlPath: "D:\advjavaSSS\NinjaV6\testng.xml"
+2025-02-18 21:05:28 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-18 21:05:28 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-18 21:05:28 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-18 21:05:28 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 21:05:28 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 21:05:28 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 21:05:28 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:75) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 21:05:28 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:85) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 21:05:28 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:80) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 21:05:28 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 21:05:28 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 21:05:28 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:05:28 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:05:28 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:04 DEBUG TestNG:82 - suiteXmlPath: "D:\advjavaSSS\NinjaV6\testng.xml"
+2025-02-18 21:13:05 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: chrome
+2025-02-18 21:13:05 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: edge
+2025-02-18 21:13:05 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 21:13:05 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 21:13:05 INFO  BaseClass:46 - Starting Test Execution - OS: windows, Browser: firefox
+2025-02-18 21:13:05 DEBUG BaseClass:53 - Successfully loaded config.properties file.
+2025-02-18 21:13:05 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:75) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 21:13:05 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:debuggerAddress: true, moz:firefoxOptions: {prefs: {remote.active-protocols: 3}}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:80) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 21:13:05 ERROR BaseClass:128 - Error initializing WebDriver: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'GUTHIKONDA', ip: '192.168.1.105'
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}]}]
+Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [], extensions: []}, platformName: Windows 11}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:563) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:174) ~[selenium-remote-driver-4.28.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:152) ~[selenium-remote-driver-4.28.1.jar:?]
+	at testBase.BaseClass.openApp(BaseClass.java:85) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:497) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:573) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:456) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.28.1.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$1(JdkHttpClient.java:384) ~[selenium-http-4.28.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	... 4 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1047) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:198) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:195) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:760) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:848) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:183) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:185) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:230) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:206) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	... 3 more
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 21:13:05 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 21:13:05 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (1 of 2)
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 21:13:05 WARN  RetryAnalyzer:18 - Retrying test 'testLaunchApplication' (2 of 2)
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
+2025-02-18 21:13:05 INFO  TC01_LaunchApplication:18 - Starting test: testLaunchApplication
+2025-02-18 21:13:05 ERROR TC01_LaunchApplication:22 - WebDriver instance is null, aborting test.
